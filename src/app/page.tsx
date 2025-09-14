@@ -79,7 +79,6 @@ export default function Home() {
             { items: [{ label: "Privacy Policy", onClick: () => {} }, { label: "Terms of Service", onClick: () => {} }] },
             { items: [{ label: "Contact", onClick: () => {} }, { label: "Support", onClick: () => {} }] }
           ]}
-          copyrightText="© 2023 PulseCloud. All rights reserved."
         />
       </div>
     </SiteThemeProvider>
